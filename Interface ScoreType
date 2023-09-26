@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T07:19:29.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="M0crm-qmEm3WmEy9x41u" version="21.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-26T07:21:12.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="P_j5x4f4Px5hqjCRtM6l" version="21.7.1" type="github" pages="3">
   <diagram name="Last Flow 2023-09-26" id="9L5iVcmFqoC2uabimToc">
     <mxGraphModel dx="934" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -158,6 +158,9 @@
         </mxCell>
         <mxCell id="V3TZOVp9WDjLgcxsawVF-6" value="No" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="V3TZOVp9WDjLgcxsawVF-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="af5hpVtmzfTjQMy3cQye-0" value="*** Sheetboard จาก SKIC ต้องส่งค่า ScoreType มาทุกกรณี" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pFu4gLedSxgVAfWNleV9-1">
+          <mxGeometry x="320" y="-870" width="470" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
